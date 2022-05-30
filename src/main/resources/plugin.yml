@@ -1,0 +1,4 @@
+name: TaxToServer
+version: ${project.version}
+main: taxtoserver.taxtoserver.TaxToServer
+api-version: 1.13
